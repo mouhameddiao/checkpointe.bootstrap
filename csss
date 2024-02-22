@@ -1,0 +1,53 @@
+h4{color: brown;
+	font-family: Bebas Neue;
+	background-color:white; 
+  font-weight: 500;
+  font-size: 30px;
+  }
+  
+	   h2 { background-image: url(asset/anne-nygard-OMoAm1m8Ous-unsplash.jpg);
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: column;
+	  height: 100vh;
+	  align-items: center;
+	font-family: "Anta";
+	color:black
+  }
+  .background-size{ background-image: url(asset/anne-nygard-OMoAm1m8Ous-unsplash.jpg);
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: column;
+	  height: 10vh;
+	  align-items: center;
+	font-family: "Anta";
+	color:black}
+  
+  
+	.protest-revolution-regular {
+	font-family: "Protest Revolution", sans-serif;
+	font-weight:1000;
+	font-size:30px;
+	font-style:italic;
+  }
+  .container-btn{ background-image: url(asset/anne-nygard-OMoAm1m8Ous-unsplash.jpg);
+	position: absolute;
+	top: 50%;
+	left: 70%;
+	transform: translate(-50%,-50%);
+	background: color #f1f1f1;;
+	color:green;
+	font-size: 16px;
+	font-family: Anta;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+  border-radius: 5px;
+  text-align:center;
+  
+  }
+  .container-btn:hover {background-color:green;
+	color:white;
+  }
